@@ -13,15 +13,18 @@ A route planning system that combines geocoding, weather data, and routing servi
 ## 🏗️ Architecture: ReWoo
 
 ### 1. **Planner Agent** (`agents/planner_agent.py`)
+
 - Analyzes user queries and breaks them into executable steps
 - Creates structured JSON plans with sequential tool calls
 
 ### 2. **Executive Agent** (`agents/executive_agent.py`)
+
 - Executes the generated plan steps
 - Synthesizes information from multiple tools
 - Formats the final user-friendly response
 
 ### 3. **Custom Tools** (`custom_tools/`)
+
 - **Geocoding Tool**: Converts addresses to coordinates
 - **Weather Tool**: Fetches current weather data
 - **Routing Tool**: Calculates routes between points
@@ -43,18 +46,21 @@ A route planning system that combines geocoding, weather data, and routing servi
 ## 🚀 Installation
 
 1. **Clone the repository**
+
 ```bash
 git clone <repository-url>
 cd route-planner
 ```
 
 2. **Install dependencies**
+
 ```bash
 pip install -r requirements.txt
 ```
 
 3. **Set up environment variables**
 Create a `.env` file:
+
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
 TAVILY_API_KEY=your_tavily_api_key_here
@@ -65,20 +71,21 @@ OPEN_WEATHER_KEY=your_openweather_api_key_here
 
 ```
 route-planner/
-├── agents/
-│   ├── __init__.py
-│   ├── executive_agent.py      # Response synthesis agent
-│   └── planner_agent.py        # Task planning agent
-├── custom_tools/
-│   ├── __init__.py
-│   ├── geocoding.py           # Location to coordinates conversion
-│   ├── routing.py             # Route calculation
-│   └── weather.py             # Weather data fetching
-├── main.py                    # Main application entry point
-├── .env                       # Environment variables (create this)
-├── requirements.txt           # Python dependencies
-└── README.md                  # This file
 ```
+
+├── app
+│   ├── agents
+│   │   ├── executive_agent.py
+│   │   ├── **init**.py
+│   │   └── planner_agent.py
+│   └── custom_tools
+│       ├── geocoding.py
+│       ├── **init**.py
+│       ├── routing.py
+│       └── weather.py
+├── main.py
+├── README.md
+└── requirements.txt
 
 ```
 
@@ -90,6 +97,7 @@ python main.py
 ```
 
 Modify the `user_query` variable in `main.py` for custom routes:
+
 ```python
 user_query = "Give me a route plan from [START] to [END] and weather condition"
 ```
@@ -177,15 +185,11 @@ user_query = "Give me a route plan from [START] to [END] and weather condition"
 ================================================================================
 ```
 
-
-
 ### API Keys Setup
 
 1. **OpenAI API Key**: Get from [OpenAI Platform](https://platform.openai.com/)
 2. **Tavily API Key**: Get from [Tavily](https://tavily.com/)
 3. **OpenWeatherMap API Key**: Get from [OpenWeatherMap](https://openweathermap.org/api)
-
-
 
 ## 📄 License
 
