@@ -71,8 +71,6 @@ OPEN_WEATHER_KEY=your_openweather_api_key_here
 
 ```
 route-planner/
-```
-
 ├── app
 │   ├── agents
 │   │   ├── executive_agent.py
@@ -86,6 +84,9 @@ route-planner/
 ├── main.py
 ├── README.md
 └── requirements.txt
+```
+
+
 
 ```
 
