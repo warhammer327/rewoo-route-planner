@@ -20,6 +20,7 @@ class PlannerAgent(Agent):
             instructions=dedent(
                 """\
             You are a highly analytical and strategic planner agent. Your core responsibility is to break down complex user requests into a series of explicit, sequential, and executable steps.
+            **REMEMBER PLACES LOCATED IN BANGLADESH**
 
             For each step in the plan, you must specify:
                 - `step_id`: A unique integer identifier for the step.

@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Ahsan Manzil",
+    "type": "Historical Place",
+    "description": "Former residence of the Nawab of Dhaka, now a museum showcasing Dhaka's history.",
+    "address": "Islampur Road, Dhaka 1100, Bangladesh",
+    "latitude": 23.7099,
+    "longitude": 90.4071
+  },
+  {
+    "name": "Lalbagh Fort",
+    "type": "Historical Place",
+    "description": "17th-century Mughal fort complex in old Dhaka.",
+    "address": "Lalbagh Rd, Dhaka 1211, Bangladesh",
+    "latitude": 23.7196,
+    "longitude": 90.3883
+  },
+  {
+    "name": "Cox's Bazar Beach",
+    "type": "Tourist Spot",
+    "description": "World's longest natural sea beach.",
+    "address": "Cox's Bazar 4700, Bangladesh",
+    "latitude": 21.4272,
+    "longitude": 92.0058
+  },
+  {
+    "name": "Sundarbans",
+    "type": "Tourist Spot",
+    "description": "World's largest mangrove forest, home to the Royal Bengal Tiger.",
+    "address": "Khulna Division, Bangladesh",
+    "latitude": 21.9497,
+    "longitude": 89.1833
+  },
+  {
+    "name": "Jatiyo Sangsad Bhaban",
+    "type": "Landmark",
+    "description": "National Parliament House, designed by Louis Kahn.",
+    "address": "Sher-e-Bangla Nagar, Dhaka 1207, Bangladesh",
+    "latitude": 23.7638,
+    "longitude": 90.3783
+  },
+  {
+    "name": "Sixty Dome Mosque",
+    "type": "Historical Place",
+    "description": "Historic mosque in Bagerhat with many domes.",
+    "address": "Bagerhat 9300, Bangladesh",
+    "latitude": 22.6744,
+    "longitude": 89.7914
+  },
+  {
+    "name": "Saint Martin's Island",
+    "type": "Tourist Spot",
+    "description": "Coral island in the Bay of Bengal.",
+    "address": "Saint Martin's Island, Teknaf, Cox's Bazar",
+    "latitude": 20.627,
+    "longitude": 92.328
+  },
+  {
+    "name": "Bangabandhu Novo Theatre",
+    "type": "Landmark",
+    "description": "Planetarium and science center.",
+    "address": "Bijoy Sarani, Tejgaon, Dhaka 1215",
+    "latitude": 23.7582,
+    "longitude": 90.3881
+  },
+  {
+    "name": "Mahasthangarh",
+    "type": "Historical Place",
+    "description": "Ancient archaeological site in Bogura.",
+    "address": "Shibganj, Bogura, Bangladesh",
+    "latitude": 24.9576,
+    "longitude": 89.3457
+  },
+  {
+    "name": "Paharpur Buddhist Vihara",
+    "type": "Historical Place",
+    "description": "UNESCO World Heritage Site and ancient monastery.",
+    "address": "Badalgachhi, Naogaon, Bangladesh",
+    "latitude": 25.0341,
+    "longitude": 88.9752
+  },
+  {
+    "name": "Jaflong",
+    "type": "Tourist Spot",
+    "description": "Scenic area with tea gardens and rivers",
+    "address": "Sylhet, Bangladesh",
+    "latitude": 25.1597,
+    "longitude": 92.0131
+  },
+  {
+    "name": "Ratargul Swamp Forest",
+    "type": "Tourist Spot",
+    "description": "Freshwater swamp forest",
+    "address": "Sylhet, Bangladesh",
+    "latitude": 25.0995,
+    "longitude": 91.9589
+  },
+  {
+    "name": "Sajek Valley",
+    "type": "Tourist Spot",
+    "description": "Mountain valley with cloud-covered hills",
+    "address": "Rangamati, Bangladesh",
+    "latitude": 23.3812,
+    "longitude": 92.2805
+  },
+  {
+    "name": "Nilgiri Hills",
+    "type": "Tourist Spot",
+    "description": "Hill resort in Bandarban",
+    "address": "Thanchi, Bandarban, Bangladesh",
+    "latitude": 21.8219,
+    "longitude": 92.4647
+  },
+  {
+    "name": "Nilachal",
+    "type": "Tourist Spot",
+    "description": "Popular viewpoint in Bandarban",
+    "address": "Bandarban, Bangladesh",
+    "latitude": 22.178,
+    "longitude": 92.1887
+  },
+  {
+    "name": "Rangamati Hanging Bridge",
+    "type": "Landmark",
+    "description": "Suspension bridge over Kaptai Lake",
+    "address": "Rangamati, Bangladesh",
+    "latitude": 22.6558,
+    "longitude": 92.1818
+  },
+  {
+    "name": "Kaptai Lake",
+    "type": "Tourist Spot",
+    "description": "Artificial lake with boating and resorts",
+    "address": "Rangamati, Bangladesh",
+    "latitude": 22.6006,
+    "longitude": 92.264
+  },
+  {
+    "name": "Patenga Sea Beach",
+    "type": "Tourist Spot",
+    "description": "Beach near Chattogram city",
+    "address": "Chattogram, Bangladesh",
+    "latitude": 22.2375,
+    "longitude": 91.7926
+  },
+  {
+    "name": "Foy's Lake",
+    "type": "Tourist Spot",
+    "description": "Lake and amusement park",
+    "address": "Chattogram, Bangladesh",
+    "latitude": 22.3668,
+    "longitude": 91.7854
+  },
+  {
+    "name": "Chatteshwari Temple",
+    "type": "Historical Place",
+    "description": "Historic Hindu temple",
+    "address": "Chattogram, Bangladesh",
+    "latitude": 22.3445,
+    "longitude": 91.831
+  },
+  {
+    "name": "Mainimati Ruins",
+    "type": "Historical Place",
+    "description": "Ancient Buddhist archaeological site",
+    "address": "Comilla, Bangladesh",
+    "latitude": 23.4576,
+    "longitude": 91.1222
+  },
+  {
+    "name": "Zinda Park",
+    "type": "Tourist Spot",
+    "description": "Eco-park and nature retreat",
+    "address": "Narayanganj, Bangladesh",
+    "latitude": 23.793,
+    "longitude": 90.5836
+  },
+  {
+    "name": "Panam City",
+    "type": "Historical Place",
+    "description": "Abandoned historic city",
+    "address": "Sonargaon, Narayanganj",
+    "latitude": 23.6342,
+    "longitude": 90.5982
+  },
+  {
+    "name": "Tajhat Palace",
+    "type": "Historical Place",
+    "description": "Historic zamindar palace",
+    "address": "Rangpur, Bangladesh",
+    "latitude": 25.7406,
+    "longitude": 89.275
+  },
+  {
+    "name": "Kuakata Sea Beach",
+    "type": "Tourist Spot",
+    "description": "Sea beach where both sunrise and sunset are visible",
+    "address": "Kuakata, Patuakhali",
+    "latitude": 21.8225,
+    "longitude": 90.1213
+  },
+  {
+    "name": "Barisal Durga Sagar",
+    "type": "Tourist Spot",
+    "description": "Large pond with island",
+    "address": "Barisal, Bangladesh",
+    "latitude": 22.691,
+    "longitude": 90.3532
+  },
+  {
+    "name": "Modhu's Canteen",
+    "type": "Historical Place",
+    "description": "Symbol of student movement",
+    "address": "Dhaka University, Bangladesh",
+    "latitude": 23.7335,
+    "longitude": 90.3926
+  },
+  {
+    "name": "Baitul Mukarram Mosque",
+    "type": "Landmark",
+    "description": "National mosque of Bangladesh",
+    "address": "Dhaka 1000, Bangladesh",
+    "latitude": 23.7295,
+    "longitude": 90.4113
+  },
+  {
+    "name": "Star Mosque",
+    "type": "Historical Place",
+    "description": "Mughal-style mosque with star patterns",
+    "address": "Armanitola, Dhaka, Bangladesh",
+    "latitude": 23.7162,
+    "longitude": 90.4061
+  },
+  {
+    "name": "Dhakeshwari Temple",
+    "type": "Historical Place",
+    "description": "Oldest Hindu temple in Dhaka",
+    "address": "Bakshi Bazar, Dhaka, Bangladesh",
+    "latitude": 23.7195,
+    "longitude": 90.3923
+  },
+  {
+    "name": "Sample Place 31",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 31",
+    "address": "Sample Address 31, Bangladesh",
+    "latitude": 23.81,
+    "longitude": 90.61
+  },
+  {
+    "name": "Sample Place 32",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 32",
+    "address": "Sample Address 32, Bangladesh",
+    "latitude": 23.82,
+    "longitude": 90.61999999999999
+  },
+  {
+    "name": "Sample Place 33",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 33",
+    "address": "Sample Address 33, Bangladesh",
+    "latitude": 23.83,
+    "longitude": 90.63
+  },
+  {
+    "name": "Sample Place 34",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 34",
+    "address": "Sample Address 34, Bangladesh",
+    "latitude": 23.84,
+    "longitude": 90.64
+  },
+  {
+    "name": "Sample Place 35",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 35",
+    "address": "Sample Address 35, Bangladesh",
+    "latitude": 23.85,
+    "longitude": 90.64999999999999
+  },
+  {
+    "name": "Sample Place 36",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 36",
+    "address": "Sample Address 36, Bangladesh",
+    "latitude": 23.86,
+    "longitude": 90.66
+  },
+  {
+    "name": "Sample Place 37",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 37",
+    "address": "Sample Address 37, Bangladesh",
+    "latitude": 23.87,
+    "longitude": 90.67
+  },
+  {
+    "name": "Sample Place 38",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 38",
+    "address": "Sample Address 38, Bangladesh",
+    "latitude": 23.88,
+    "longitude": 90.67999999999999
+  },
+  {
+    "name": "Sample Place 39",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 39",
+    "address": "Sample Address 39, Bangladesh",
+    "latitude": 23.89,
+    "longitude": 90.69
+  },
+  {
+    "name": "Sample Place 40",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 40",
+    "address": "Sample Address 40, Bangladesh",
+    "latitude": 23.9,
+    "longitude": 90.7
+  },
+  {
+    "name": "Sample Place 41",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 41",
+    "address": "Sample Address 41, Bangladesh",
+    "latitude": 23.91,
+    "longitude": 90.71
+  },
+  {
+    "name": "Sample Place 42",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 42",
+    "address": "Sample Address 42, Bangladesh",
+    "latitude": 23.92,
+    "longitude": 90.72
+  },
+  {
+    "name": "Sample Place 43",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 43",
+    "address": "Sample Address 43, Bangladesh",
+    "latitude": 23.93,
+    "longitude": 90.73
+  },
+  {
+    "name": "Sample Place 44",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 44",
+    "address": "Sample Address 44, Bangladesh",
+    "latitude": 23.94,
+    "longitude": 90.74
+  },
+  {
+    "name": "Sample Place 45",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 45",
+    "address": "Sample Address 45, Bangladesh",
+    "latitude": 23.95,
+    "longitude": 90.75
+  },
+  {
+    "name": "Sample Place 46",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 46",
+    "address": "Sample Address 46, Bangladesh",
+    "latitude": 23.96,
+    "longitude": 90.75999999999999
+  },
+  {
+    "name": "Sample Place 47",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 47",
+    "address": "Sample Address 47, Bangladesh",
+    "latitude": 23.97,
+    "longitude": 90.77
+  },
+  {
+    "name": "Sample Place 48",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 48",
+    "address": "Sample Address 48, Bangladesh",
+    "latitude": 23.98,
+    "longitude": 90.78
+  },
+  {
+    "name": "Sample Place 49",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 49",
+    "address": "Sample Address 49, Bangladesh",
+    "latitude": 23.99,
+    "longitude": 90.78999999999999
+  },
+  {
+    "name": "Sample Place 50",
+    "type": "Tourist Spot",
+    "description": "Description for Sample Place 50",
+    "address": "Sample Address 50, Bangladesh",
+    "latitude": 24.0,
+    "longitude": 90.8
+  }
+]

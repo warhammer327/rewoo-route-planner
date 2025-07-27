@@ -90,7 +90,7 @@ if __name__ == "__main__":
             "routing": routing_tools,  # This matches "routing.get_route"
         }
 
-        user_query = "Give me a route plan from savar,dhaka to dhanmondi,dhaka and weather condition on along the route"
+        user_query = "Give me a route plan from khalishpur to dhanmondi and weather condition on along the route"
         planner_model = OpenAIChat(id="gpt-4o", api_key=openai_api_key)
         planner_agent = PlannerAgent(
             model=planner_model, tools=[geocoding_tools, weather_tools, routing_tools]
