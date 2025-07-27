@@ -1,16 +1,14 @@
 import os
 import re
-from textwrap import dedent
 from dotenv import load_dotenv
-from agno.agent import Agent
 from agno.models.openai import OpenAIChat
 from agno.tools.tavily import TavilyTools
-from custom_tools.weather import WeatherTools
-from custom_tools.geocoding import GeocodingTools
-from custom_tools.routing import RoutingTools
+from app.custom_tools.weather import WeatherTools
+from app.custom_tools.geocoding import GeocodingTools
+from app.custom_tools.routing import RoutingTools
 
-from agents.planner_agent import PlannerAgent
-from agents.executive_agent import ExecutiveAgent
+from app.agents.planner_agent import PlannerAgent
+from app.agents.executive_agent import ExecutiveAgent
 
 load_dotenv()
 
