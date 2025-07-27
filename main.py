@@ -1,5 +1,7 @@
 import os
 import re
+import weaviate
+import warnings
 from dotenv import load_dotenv
 from agno.models.openai import OpenAIChat
 from agno.tools.tavily import TavilyTools
@@ -11,6 +13,9 @@ from app.agents.planner_agent import PlannerAgent
 from app.agents.executive_agent import ExecutiveAgent
 
 load_dotenv()
+warnings.filterwarnings(
+    "ignore", category=UserWarning, module="google.protobuf.runtime_version"
+)
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
 tavily_api_key = os.getenv("TAVILY_API_KEY")
