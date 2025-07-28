@@ -1,6 +1,5 @@
 import os
 import re
-import weaviate
 import warnings
 from dotenv import load_dotenv
 from agno.models.openai import OpenAIChat
